@@ -15,13 +15,13 @@ $ go get github.com/tj/node-prune/cmd/node-prune
 From binary to `./bin/node-prune`:
 
 ```
-$ curl -sfL https://install.goreleaser.com/github.com/tj/node-prune.sh | bash
+$ curl -sfL https://raw.githubusercontent.com/tobias-klein/node-prune/master/godownloader.sh | bash
 ```
 
 From binary to `/usr/local/bin/node-prune`:
 
 ```
-$ curl -sfL https://install.goreleaser.com/github.com/tj/node-prune.sh | bash -s -- -b /usr/local/bin
+$ curl -sfL https://raw.githubusercontent.com/tobias-klein/node-prune/master/godownloader.sh | bash -s -- -b /usr/local/bin
 ```
 
 ## Usage
