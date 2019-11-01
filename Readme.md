@@ -9,7 +9,7 @@ node-prune is a small tool to prune unnecessary files from ./node_modules, such 
 From source:
 
 ```
-$ go get github.com/tj/node-prune/cmd/node-prune
+$ go get github.com/tobias-klein/node-prune/cmd/node-prune
 ```
 
 From binary to `./bin/node-prune`:
