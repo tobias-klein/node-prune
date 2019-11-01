@@ -97,7 +97,6 @@ var DefaultDirectories = []string{
 	".idea",
 	".vscode",
 	"website",
-	"images",
 	"assets",
 	"example",
 	"examples",
