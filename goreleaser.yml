@@ -7,7 +7,6 @@ build:
     - windows
   goarch:
     - amd64
-    - 386
 changelog:
   sort: asc
   filters:
